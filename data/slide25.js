@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{4B8B238D-8E6E-4395-94B1-E874E69CA65B}'];loadHandler&&loadHandler(24, '<div id="spr0_52f492"><div id="spr1_52f492" class="kern slide"><img id="img1_52f492" src="data/img59.png" width="1080px" height="1920px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_52f492" class="kern slide"><div id="spr3_52f492"><img id="img0_52f492" src="data/img62.gif" width="1080" height="1920" alt="Sebuah gambar berisi cuplikan layar, kartun, Animasi\
+\
+Deskripsi dibuat secara otomatis"/></div></div></div>', '{"s":[]}');})();

@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{4B8B238D-8E6E-4395-94B1-E874E69CA65B}'];loadHandler&&loadHandler(50, '<div id="spr0_53c6a7"><div id="spr1_53c6a7" class="kern slide"><img id="img1_53c6a7" src="data/img1.png" width="1080px" height="1920px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_53c6a7" class="kern slide"><div id="spr3_53c6a7"><img id="img0_53c6a7" src="data/img91.gif" width="1080" height="1920" alt="Sebuah gambar berisi cuplikan layar, jendela, dari kayu, dalam ruangan\
+\
+Deskripsi dibuat secara otomatis"/></div></div></div>', '{"s":[]}');})();

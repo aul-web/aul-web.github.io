@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{4B8B238D-8E6E-4395-94B1-E874E69CA65B}'];loadHandler&&loadHandler(22, '<div id="spr0_52e2fe"><div id="spr1_52e2fe" class="kern slide"><img id="img1_52e2fe" src="data/img59.png" width="1080px" height="1920px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_52e2fe" class="kern slide"><div id="spr3_52e2fe"><img id="img0_52e2fe" src="data/img60.gif" width="1080" height="1920" alt="Sebuah gambar berisi kartun\
+\
+Deskripsi dibuat secara otomatis"/></div></div></div>', '{"s":[]}');})();
