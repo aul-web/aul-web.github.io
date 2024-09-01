@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{BF51F2E1-B7D7-4863-8F7B-B9AE08413B47}'];loadHandler&&loadHandler(32, '<div id="spr0_273049a"><div id="spr1_273049a" class="kern slide"><img id="img1_273049a" src="data/img41.png" width="1080px" height="1920px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_273049a" class="kern slide"><div id="spr3_273049a"><img id="img0_273049a" src="data/img49.gif" width="1080" height="1920" alt="Sebuah gambar berisi kartun, cuplikan layar, Kartun animasi, anime\
+\
+Deskripsi dibuat secara otomatis"/></div></div></div>', '{"s":[]}');})();

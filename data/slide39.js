@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{BF51F2E1-B7D7-4863-8F7B-B9AE08413B47}'];loadHandler&&loadHandler(38, '<div id="spr0_27359de"><div id="spr1_27359de" class="kern slide"><img id="img1_27359de" src="data/img1.png" width="1080px" height="1920px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_27359de" class="kern slide"><div id="spr3_27359de" style="top:3.826px;"><img id="img0_27359de" src="data/img55.gif" width="1080" height="1920" alt="Sebuah gambar berisi ilustrasi, kartun, Seni anak-anak\
+\
+Deskripsi dibuat secara otomatis"/></div></div></div>', '{"s":[]}');})();

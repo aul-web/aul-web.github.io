@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{BF51F2E1-B7D7-4863-8F7B-B9AE08413B47}'];loadHandler&&loadHandler(69, '<div id="spr0_274c46a"><div id="spr1_274c46a" class="kern slide"><img id="img1_274c46a" src="data/img1.png" width="1080px" height="1920px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_274c46a" class="kern slide"><div id="spr3_274c46a"><img id="img0_274c46a" src="data/img94.png" width="1080" height="1920" alt="Sebuah gambar berisi kartun, dari kayu, mainan, dalam ruangan\
+\
+Deskripsi dibuat secara otomatis"/></div></div></div>', '{"s":[]}');})();
